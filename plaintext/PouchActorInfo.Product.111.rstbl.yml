@@ -13941,7 +13941,7 @@
   BuyingPrice: 5
   PouchCategory: Arrow
   PouchGetType: Small
-  PouchSpecialDeal: None
+  PouchSpecialDeal: MinusRupee
   PouchStockable: true
   PouchUseType: EatFood
   SellingPrice: 1
@@ -13991,7 +13991,7 @@
   BuyingPrice: 20
   PouchCategory: Arrow
   PouchGetType: Small
-  PouchSpecialDeal: None
+  PouchSpecialDeal: MinusRupee
   PouchStockable: true
   PouchUseType: EatFood
   SellingPrice: -1
@@ -14001,7 +14001,7 @@
   BuyingPrice: 35
   PouchCategory: Arrow
   PouchGetType: Small
-  PouchSpecialDeal: None
+  PouchSpecialDeal: MinusRupee
   PouchStockable: true
   PouchUseType: EatFood
   SellingPrice: -1
@@ -14010,7 +14010,7 @@
   BuyingPrice: 5
   PouchCategory: Arrow
   PouchGetType: Small
-  PouchSpecialDeal: None
+  PouchSpecialDeal: MinusRupee
   PouchStockable: true
   PouchUseType: EatFood
   SellingPrice: 1
@@ -15347,7 +15347,7 @@
   PouchCategory: SpecialParts
   PouchGetType: Small
   PouchSortKey: 88
-  PouchSpecialDeal: None
+  PouchSpecialDeal: MinusRupee
   PouchStockable: true
   PouchUseType: EatFood
   __RowId: SpObj_BalloonEnvelope_Capsule_A_01
