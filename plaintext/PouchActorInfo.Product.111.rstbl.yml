@@ -15677,7 +15677,7 @@
   PouchStockable: true
   PouchUseType: EatFood
   __RowId: SpObj_FloatingStone_Capsule_A_01_Bundle_B
-- { BundleActorNum: 1, CapsuleContent: Work/Actor/SpObj_GolemHead_A_01.engine__actor__ActorParam.gyml, PouchCategory: SpecialParts, PouchGetType: Small, PouchSpecialDeal: None, PouchStockable: true, PouchUseType: EatFood, __RowId: SpObj_GolemHead_Capsule_A_01 }
+- { BundleActorNum: 1, CapsuleContent: Work/Actor/SpObj_GolemHead_A_01.engine__actor__ActorParam.gyml, PouchCategory: SpecialParts, PouchGetType: Small, PouchSpecialDeal: MinusRupee, PouchStockable: true, PouchUseType: EatFood, __RowId: SpObj_GolemHead_Capsule_A_01 }
 - BundleActorNum: 1
   CapsuleContent: Work/Actor/SpObj_LiftGeneratorWing_A_01.engine__actor__ActorParam.gyml
   PouchCategory: SpecialParts
